@@ -10,4 +10,4 @@ features
 * runs automatically at startup in background
 * optionally reminds you to take measurements
 * simple UI minimizes interaction time
-* optionally syncs data to google calendar
+* optionally syncs data to google spreadsheet
